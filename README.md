@@ -59,3 +59,5 @@ Project: Birthday Reminder
 Language: Python
 Course: CSE1021 – Introduction to Problem Solving and Programming
 Institution: VIT Bhopal
+Name: Manjiri Umeshkumar Bagal.
+Registration No.: 26BCY10036 
